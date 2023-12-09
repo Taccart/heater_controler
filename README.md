@@ -44,7 +44,8 @@ Plus tard, si tout va bien:
 
 ### Connections
 Les +5V et GND ne sont pas représentés 
-```                          ╔══════════╗
+```
+                             ╔══════════╗
                              ║DHT22     ║
                              ║══════════║
                              ║+5V       ║
