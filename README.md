@@ -38,9 +38,9 @@ Plus tard, si tout va bien:
 
 ## Version 1
 ### Composants
-- Un ESP8266 (Wemos D1 mini pro) que j'avais sous la main, qui me facilitera la 
-- Un écran LCD RGB avec 5 boutons poussoirs
-- Un double relais 220V 30A (pour avoir de la marque)
+- Un ESP8266 --> [WEMOS Mini D1 Pro ](https://www.amazon.fr/Connecteur-dantenne-ESP8266EX-d%C3%A9veloppement-128MMBIT/dp/B0CJHWGHK7/ref=sr_1_7?keywords=wemos+d1+mini+pro&qid=1702125536&sr=8-7)
+- Un écran LCD RGB avec 5 boutons poussoirs -->  [RGB LCD Shield Kit](https://www.adafruit.com/product/716)
+- Un double relais 220V 30A (pour avoir de la marque) --> [30 A 2 canaux](https://www.amazon.fr/dp/B07QN5H6B1?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 
 ### Connections
 Les +5V et GND ne sont pas représentés 
